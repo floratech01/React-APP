@@ -7,7 +7,7 @@ function App() {
       <p>This app is running on Nginx!</p>
 
       <h2>Deployed by: <strong>Obianuju Florence Ohawuchi</strong></h2>
-      <p>Date: <strong>DD19/01/2026</strong></p>
+      <p>Date: <strong>19/01/2026</strong></p>
 
       <hr style={{ margin: "20px 0" }} />
 
